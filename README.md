@@ -108,7 +108,7 @@ The marketing team needed to:
 - **Method** : K-Means Clustering with Elbow Method
 - **Optimal Clusters** : 4 Segments
 
-** Identified Segments:**
+**Identified Segments:**
 1. Champions(15%) - High Conversion, low ad fatigue
 2. Engaged Users(30%) - Moderate Conversion, Responsive
 3. At-Risk(25%) - High ads, Low Conversion (ad fatigue)
