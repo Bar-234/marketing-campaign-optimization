@@ -65,7 +65,7 @@ FROM marketing_campaign;
 - Lowest : Early morning(2-6 AM)
 
 **Correlation Analysis**
-correlation_matrix = df.corr()
+- correlation_matrix = df.corr()
 
 # **Key Findings:**
 - test_group vs converted:  r = 0.15(weak positive) 
