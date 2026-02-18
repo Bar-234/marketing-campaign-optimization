@@ -125,7 +125,7 @@ The marketing team needed to:
 - **Winner** : Random Forest(Best ROC-AUC)
 
 **Phase 6 : Marketing KPI Analysis**
-Key metrics calculated:
+- Key metrics calculated:
 - Conversion Rate(CR)
 - A/B Test Lift
 - Customer Efficiency Score
@@ -165,7 +165,7 @@ Key metrics calculated:
 2. **Cap Ad Frequency** - Limit to 15 ads per user
 3. **Optimize Timing** - Focus on hours 14, 18 and weekends
 
-**Strategic Initiatives**
+# **Strategic Initiatives**
 4. Segments- Based Campaigns
 - Champions : loyalty program, premium offers
 - At-Risk : New Creative , frequency reduction
